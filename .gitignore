@@ -1,0 +1,12 @@
+.DS_Store
+.env*
+config.js
+npm-debug.log
+.firebaserc
+
+node_modules
+build
+tmp
+
+public/dist
+public/index.html
